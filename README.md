@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt coding width="200" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif"
 
+- 🎓 I am an Information Technology student at Gadjah Mada University
+- 🌱 I’m currently learning C#, Python, Javascript, and SQL
 - 📫 How to reach me **adinda1103putri@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
